@@ -1,10 +1,20 @@
+# Weekly log 6 (30/05):
+## Ana:
+- Melhorias na função para de adquirir as velocidades médias dos carros
+- Primeira visualização de velocidades médias num gráfico
+## André:
+## Gil:
+## João:
 # Weekly log 6 (23/05):
 ## Ana:
+- Relatório M3
+- Primeira tentativa para a função de adquirir as velocidades médias dos carros
 ## André:
 ## Gil:
 ## João:
 # Weekly log 5 (16/05):
 ## Ana:
+- Botão de tradução do site tornado responsivo
 ## André:
 - Refactor do codigo de backend
 - Criaçao da base de dados em mariadb
