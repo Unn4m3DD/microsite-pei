@@ -5,6 +5,12 @@
 ## André:
 ## Gil:
 ## João:
+- Desenvolvimento da interface de escolha do intervalo de tempo para a timeline
+- Melhorias no player da timeline
+- Melhoria no style da timeline
+- Mudanças na receção de hearthbeats e cams (passam a usar um buffer e a atualizar a cada 100ms)
+- Adicionadas traduções para a timeline
+- Correção na limpeza do buffer das cams
 # Weekly log 6 (23/05):
 ## Ana:
 - Relatório M3
@@ -12,9 +18,13 @@
 ## André:
 ## Gil:
 ## João:
+- Relatório M3
+- Ligação à api para receber eventos de estrada (cpms)
+- Criação de um player para a timeline
 # Weekly log 5 (16/05):
 ## Ana:
 - Botão de tradução do site tornado responsivo
+- Mudado o estilo do botão de tradução
 ## André:
 - Refactor do codigo de backend
 - Criaçao da base de dados em mariadb
@@ -30,6 +40,9 @@
 - Adicionados mais videos à página de demos
 - Corrigido bug em iphone na App
 ## João:
+- Início do desenvolvimento da interface da timeline
+- Cancelada a subscrição aos tópicos do broker a mudar para o modo timeline
+- Corrigido bug no site, onClick na RSU
 # Weekly log 4 (9/05):
 ## Ana:
 - Criação de popups para as DENMs
