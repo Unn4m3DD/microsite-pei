@@ -3,6 +3,12 @@
 - Melhorias na função para de adquirir as velocidades médias dos carros
 - Primeira visualização de velocidades médias num gráfico
 ## André:
+- Encoding XML adicionado à camada de traduçao
+- Cors removido da API para permitir testes locais
+- Refactor da API e Base de Dados para aumento de performance
+- Criação de um novo endpoint da documentação
+- Implementação de varios endpoints 
+- Correção do it2s-itss-5g-rsu para evitar log de erros quando a estrada observada está vazia 
 ## Gil:
 ## João:
 - Desenvolvimento da interface de escolha do intervalo de tempo para a timeline
@@ -16,6 +22,9 @@
 - Relatório M3
 - Primeira tentativa para a função de adquirir as velocidades médias dos carros
 ## André:
+- Correção de bugs na app: envio de vams, localizaçao das denms
+- Apresentação M3
+- Edição video para M3
 ## Gil:
 ## João:
 - Relatório M3
