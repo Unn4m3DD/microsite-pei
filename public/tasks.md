@@ -10,6 +10,10 @@
 - Implementação de varios endpoints 
 - Correção do it2s-itss-5g-rsu para evitar log de erros quando a estrada observada está vazia 
 ## Gil:
+- Corrigida a ordem dos atributos de algumas entidades (OBU, CPM e PerceivedObject)
+- Alteração na db do emitter_id, latitude e longitude para serem BigInts
+- Implementação de stored procedures para inserção, update e leitura
+- Implementação de udf's utilizadas pelos stored procedures
 ## João:
 - Desenvolvimento da interface de escolha do intervalo de tempo para a timeline
 - Melhorias no player da timeline
@@ -26,6 +30,8 @@
 - Apresentação M3
 - Edição video para M3
 ## Gil:
+- Tradução apresentação
+- Adaptação de queries para o novo formato
 ## João:
 - Relatório M3
 - Ligação à api para receber eventos de estrada (cpms)
