@@ -9,6 +9,7 @@
 - Criação de um novo endpoint da documentação
 - Implementação de varios endpoints 
 - Correção do it2s-itss-5g-rsu para evitar log de erros quando a estrada observada está vazia 
+- Migraçãoa base de dados para utilizar Bigint 
 ## Gil:
 - Corrigida a ordem dos atributos de algumas entidades (OBU, CPM e PerceivedObject)
 - Alteração na db do emitter_id, latitude e longitude para serem BigInts
