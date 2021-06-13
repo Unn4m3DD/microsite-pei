@@ -1,3 +1,19 @@
+# Weekly log 6 (13/06):
+## Ana:
+## André:
+## Gil:
+- Adicionados triggers para notificações
+- Garantida a atomicidade na inserção e update de emissores
+- Garantidas as restrições de herança entre Smartphones e Websites
+## João:
+# Weekly log 6 (6/06):
+## Ana:
+## André:
+## Gil:
+- Traduzidos alguns Stored Procedures em mariaDB para MsSql
+- Adicionada uma view para juntar as notificações
+- Adiocionados o resto dos Stored Procedures que faltavam
+## João:
 # Weekly log 6 (30/05):
 ## Ana:
 - Melhorias na função para de adquirir as velocidades médias dos carros
