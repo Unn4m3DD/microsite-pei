@@ -1,20 +1,50 @@
-# Weekly log 6 (13/06):
+# Weekly log 9 (20/06):
 ## Ana:
+- Arranjados bugs nos gráficos, no calendário e nas cards
+- Traduções da página das dashboards
+- Adicionado o gráfico da contagem de pessoas
+- Funcionalidade gráficos por id da estação
+## André:
+## Gil:
+## João:
+- Traduções adicionadas
+- Funcionalidade de congelar o ecrã na timeline adicionada
+- Correção de bugs nos markers do mapa ao dar zoom
+
+# Weekly log 9 (13/06):
+## Ana:
+- Botão das unidades no gráfico funcional
+- Melhorias no calendário e no gráfico
+- Adicionada card com a contagem de carros
+- Adicionado o gráfico da contagem de carros
+- Adicionada a card de passagem do limite de velocidade 
+- Medição da velocidade média dos carros aumentada para 10 minutos
 ## André:
 ## Gil:
 - Adicionados triggers para notificações
 - Garantida a atomicidade na inserção e update de emissores
 - Garantidas as restrições de herança entre Smartphones e Websites
 ## João:
-# Weekly log 6 (6/06):
+- Adicionado blur quando a tradução não está pronta
+- Adicionado aviso quando não é possível estabelecer a ligação com o broker
+# Weekly log 8 (6/06):
 ## Ana:
+- Melhorias no método de obter a velocidade média dos carros
+- Calendário adicionado às dashboards
+- Loading adicionado aos gráficos
+- Algumas traduções adicionadas à página de dashboards
+- Legendas no eixo dos X dos gráficos
+- Melhorias quando o intervalo de dias pedido é 1 ou mais que 5
 ## André:
 ## Gil:
 - Traduzidos alguns Stored Procedures em mariaDB para MsSql
 - Adicionada uma view para juntar as notificações
 - Adiocionados o resto dos Stored Procedures que faltavam
 ## João:
-# Weekly log 6 (30/05):
+- Adicionado suporte a VAMs e CAMs na timeline
+- Adicionadas cookies para identificador do cliente web das mensagens DENM
+- Adicionada a filtragem das mensagens recebidas pelo client para altitudes e longitudes inválidas
+# Weekly log 7 (30/05):
 ## Ana:
 - Melhorias na função para de adquirir as velocidades médias dos carros
 - Primeira visualização de velocidades médias num gráfico
@@ -176,11 +206,11 @@
 
 * [x]  Criação base de dados de suporte à timeline - André \[10/5 - 17/5\]
   * [x]  Criação da api para visualização da timeline de eventos na estrada - Gil \[16/5 - 28/5\]
-    * [ ]  Consulta do estado da estrada numa timeline - Ana e João \[28/5 - 5/6\]
-    * [ ]  Dashboard com informações estatísticas sobre flow de tráfego - Ana e João \[5/6 - 21/6\]
-      * [ ]  Velocidade media por hora - Ana \[5/6 - 21/6\]
-      * [ ]  Tipos de veículos - João \[5/6 - 21/6\]
-      * [ ]  Quantidade de veículos - Ana \[5/6 - 21/6\]
+    * [x]  Consulta do estado da estrada numa timeline - Ana e João \[28/5 - 5/6\]
+    * [x]  Dashboard com informações estatísticas sobre flow de tráfego - Ana e João \[5/6 - 21/6\]
+      * [x]  Velocidade media por hora - Ana \[5/6 - 21/6\]
+      * [ ]  Tipos de veículos - João - Optional \[5/6 - 21/6\]
+      * [x]  Quantidade de veículos - Ana \[5/6 - 21/6\]
 * [x]  Localização do site para inglês e português - João \[28/5 - 10/6\]
 
 ### App
